@@ -1,6 +1,11 @@
 ************************
 Raxio Changelog
-Date: 2015-03-07 23:40:59 UTC
+Date: 2015-03-07 23:42:51 UTC
 Previous-Version: master
-Current-Version: upstream
+Current-Version: k1-20150307-gupstream-1
 ************************
+Commit: b34021cc51349abc1b47ff26b3474cb6c62c043a
+Author: builds
+Date: Sat Mar 7 23:40:59 2015 +0000
+Message: Add release changelog for upstream
+
