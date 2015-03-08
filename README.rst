@@ -1,4 +1,4 @@
-Dima Hello World with CherryPy
+Hello World with CherryPy
 ======================
 
 Prerequisites
