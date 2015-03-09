@@ -1,6 +1,16 @@
 ************************
 Raxio Changelog
-Date: 2015-03-09 01:16:56 UTC
+Date: 2015-03-09 01:17:56 UTC
 Previous-Version: master
-Current-Version: upstream
+Current-Version: k1-20150309-gupstream-8
 ************************
+Commit: 57024415f36670efd01cf7df3ee5d1693827f4f9
+Author: Dimitry Ushakov
+Date: Sat Mar 7 18:09:36 2015 -0600
+Message: Update README to remove Dima
+
+Commit: b2d8a7c3eee9db3a0cfb5d13e0043cd7772935cc
+Author: builds
+Date: Mon Mar 9 01:16:56 2015 +0000
+Message: Add release changelog for upstream
+
